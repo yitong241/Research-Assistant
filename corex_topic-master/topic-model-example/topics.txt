@@ -1,0 +1,10 @@
+0:player,mp3,software,use,play,files,screen,device,usb,songs
+1:sound,bass,music,headphones,ear,listening,quality,volume,ears,pair
+2:like,just,don,really,time,br,want,way,ve,think
+3:using,review,end,best,used,point,probably,experience,far,different
+4:good,bit,little,small,case,nice,size,feel,easily,overall
+5:service,customer,new,amazon,update,did,support,problem,called,warranty
+6:receiver,speakers,surround,theater,setup,subwoofer,audio,room,home,speaker
+7:power,amp,output,input,digital,line,built,source,stereo,amplifier
+8:battery,radio,batteries,charge,clock,fm,alarm,hours,life,charging
+9:antenna,tv,cable,signal,wall,mount,channels,stations,box,mounted

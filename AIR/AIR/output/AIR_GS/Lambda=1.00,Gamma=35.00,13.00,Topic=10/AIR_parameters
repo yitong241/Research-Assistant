@@ -1,0 +1,23 @@
+#Fri Dec 09 20:58:09 SGT 2022
+Gammas=35.0,13.0
+MaxAlphaEstimateIterNum=1
+MinDocumentLen=1
+BetaInit=0.01
+TopWordNum=50
+AverageDocumentLen=41.51435547353465
+ModelOutputPath=/Users/yitong/Desktop/AIR/AIR/output/AIR_GS/Lambda\=1.00,Gamma\=35.00,13.00,Topic\=10
+TokenNum=5083931
+ReviewNum=122462
+KeywordFile=YES
+Lambda=1.0
+BurninIterNum=2000
+WordEntropy=9.672295680224307
+EstimateIterNum=200
+Alphas=0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+TopicNum=10
+maxLambdaEstimateIterNum=1
+DictionaryNum=7568
+MaxDocumentLen=5986
+BurninIter=100
+AlphaEstimateIter=0
+DocumentNum=122462

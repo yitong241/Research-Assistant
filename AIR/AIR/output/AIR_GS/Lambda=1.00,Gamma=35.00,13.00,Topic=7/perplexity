@@ -1,0 +1,2 @@
+[Topic = 7, betaInit=0.01, lambda = 1.0, gamma = 35.0,13.0]
+	[Validation] alphaEstIter = 0; logLikelihoodError = 1.7976931348623157E308; [EM] LogLikelihood = -6.495557592876743, Perplexity = 662.1933566863778; 

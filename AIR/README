@@ -1,0 +1,20 @@
+  Version: 1.0
+
+This code is partially, recently cleaned for the purpose of better understanding how AIR works. You can find that there are some unused methods because they are called in some other classes which are not open. Please email to the author if there is anything wrong.
+
+Settings can be found in 'configure' file. Some other parameters are built-in programs. Please not that current version does not support AIR with MAP and it is can be only adapted for small-scale data.
+
+Please start with 'Main.java'.
+
+The path 'data' provide some exmaples. Please note that the data are faked one which is generated randomly to test the code.
+
+----------------------------------------------------------------------------------------------------------------
+References
+----------------------------------------------------------------------------------------------------------------
+@inproceedings{Huayu:2015:ICDM,
+  author    = {Huayu Li and Rongcheng Lin and Richang Hong and Yong Ge},
+  title     = {Generative Models for Mining Latent Aspects and Their Ratings from Short Reviews},
+  booktitle = {2015 {IEEE} International Conference on Data Mining},
+  pages     = {241--250},
+  year      = {2015}
+}

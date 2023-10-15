@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+corextopic/__init__.py
+corextopic/corextopic.py
+corextopic/vis_topic.py
+corextopic.egg-info/PKG-INFO
+corextopic.egg-info/SOURCES.txt
+corextopic.egg-info/dependency_links.txt
+corextopic.egg-info/top_level.txt

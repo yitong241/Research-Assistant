@@ -1,0 +1,62 @@
+[Environment Setting]
+ModelOutputPath=output/
+
+#TrainFile=data/reviews_train
+TrainFile = data3/earbud_reviews.txt
+#TrainFile = data2/test
+#ValidationFile = data/reviews_validation
+ValidationFile = data3/earbud_reviews.txt
+#TestFile=(path)/reviews_test
+#TestFile=data1/test.txt
+
+## DO NOT USE THIS
+#IsUseRateBeerData=false
+
+[Gibbs Sampling Model Setting]
+##Implement Method
+## AIR_Model_Via_Sampling=0
+## AIR_Model_Via_VB=1
+## AIR_Model_Via_MAP=2 (Current version does not support!)
+## AIRS_Model_Via_MAP=3
+ImplementMethod=0
+
+IsRestore=false
+IsOptimizeLambda=false
+
+TopicNum=10
+Lambda=1.0
+Gammas=35,13
+BetaInit=0.01
+TopWordNum=50
+
+BurninIterNum=2000
+EstimateIterNum=200
+MaxAlphaEstimateIterNum=1
+maxLambdaEstimateIterNum=1
+
+## enable the groundtruth rating file when you want to compare the predicted ratings and the groundtruth ratings of training data
+## the rating scale is 1 to 5
+#GroundtruthScoreFile=data1/scores_groundtruth
+
+## enable the keyword file when you want to use keywords guided topic modeling
+KeywordFile=data3/processed.txt
+
+## enable the groundtruth distribution when you want to compare the quality of the mined topics and the groundtruth topics
+#GroundtruthTopicWordDistributionFile=(path)/phi
+
+[Left To Right - Gibbs Sampling Setting]
+ParticleNum=100
+
+[DEBUG]
+DebugConvergence=false
+
+[Greedy Search]
+EnableGreedSearch=false
+
+EnableUseMultiThread=false
+ThreadNum=8
+
+TopicNumArray=
+LambdaArray=
+GammasArray=
+

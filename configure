@@ -1,0 +1,51 @@
+[Environment Setting]
+ModelOutputPath=/Users/yitong/SchoolWork/output/AIR
+
+TrainFile=/Users/yitong/SchoolWork/Research Assistant/(path)/TrainFile
+ValidationFile=/Users/yitong/SchoolWork/Research Assistant/(path)/ValidationFile
+TestFile=/Users/yitong/SchoolWork/Research Assistant/(path)/TestFile
+
+IsUseRateBeerData=false
+
+[Model Setting]
+# Implement Method
+# General_Model_Via_Sampling=0
+# General_Model_Via_MAP=1
+# General_Model_Via_VB=2
+# Short_Rev_Model_Via_MAP=3
+ImplementMethod=0
+
+IsRestore=false
+IsOptimizeLambda=false
+
+TopicNum=10
+Lambda=1.0
+Gammas=2.5, 1.0
+BetaInit=0.01
+TopWordNum=20
+
+BurninIterNum=2000
+EstimateIterNum=200
+MaxAlphaEstimateIterNum=5
+maxLambdaEstimateIterNum=1
+
+KeywordFile=
+GroundtruthScoreFile=
+GroundtruthTopicWordDistributionFile=
+
+[Left To Right - Gibbs Sampling Setting]
+ParticleNum=100
+
+[DEBUG]
+DebugConvergence=false
+
+[Greedy Search]
+EnableGreedSearch=false
+
+EnableUseMultiThread=false
+ThreadNum=4
+
+TopicNumArray=
+LambdaArray=
+GammasArray=
+

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/lda.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/topicmodel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/matlabcontrol-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lhytool.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jfreechart-1.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-math3-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javacsv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jcommon-1.0.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
