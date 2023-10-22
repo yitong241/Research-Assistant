@@ -1,15 +1,19 @@
-corex_topic-master/yelp.dta
-AIR/AIR/data3/earbud_reviews.txt
-output.csv
-electronic/o.txt
-mixed_first_items.csv
-earbud_reviews/earbud.txt
-earbud_reviews/filtered_tokenlized.txt
-earbud_reviews/o.txt
-earbud_reviews/filtered_origin.txt
-earbud_reviews/proc.txt
-output_updated.csv
-Agora_matching_map.csv
-Agora_transaction_matched.csv
-Evolution_matching_map.csv
-Evolution_transaction_matched.csv
+# corec_topic data
+corex_topic-master/data/*
+
+# AIR data
+AIR/data/*
+AIR/data1/*
+AIR/AIR/data/*
+AIR/AIR/data1/*
+AIR/AIR/data2/*
+AIR/AIR/data3/*
+
+# electronic data
+electronic/data/*
+
+# earbud data
+earbud_reviews/data/*
+
+# darkweb data
+darkweb/data/*
