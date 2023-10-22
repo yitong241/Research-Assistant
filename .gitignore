@@ -9,3 +9,7 @@ earbud_reviews/o.txt
 earbud_reviews/filtered_origin.txt
 earbud_reviews/proc.txt
 output_updated.csv
+Agora_matching_map.csv
+Agora_transaction_matched.csv
+Evolution_matching_map.csv
+Evolution_transaction_matched.csv
