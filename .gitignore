@@ -17,3 +17,11 @@ earbud_reviews/data/*
 
 # darkweb data
 darkweb/data/*
+
+Scrape/chromedriver.exe
+Scrape/chrome-win64.zip
+Scrape/chrome-win64/*
+Scrape/PDF/*
+Scrape/chrome-win64/*
+Scrape/scrape_data.csv
+Scrape/credentials.txt
