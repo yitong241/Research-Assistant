@@ -1,2 +1,10 @@
 5, 1, 1, An Economic Analysis of Peer Disclosure in Online Social Communities
 5, 1, 0, Differences are Different: Examining the Effects of Communication Media on the Impacts of Racial and Gender Diversity in Decision-Making Teams
+6, 0, 7, The "Most Popular News" Recommender: Count Amplification and Manipulation Resistance
+6, 1, 7, Consumer Informedness and Firm Information Strategy
+6, 1, 11, The Influences of Online Service Technologies and Task Complexity on Efficiency and Personalization
+7, 0, 14, The Value of Third-Party Assurance Seals in Online Retailing: An Empirical Investigation
+7, 3, 1, Introduction to the Special Issue: Social Media and Business Transformation: A Framework for Research
+8, 0, 12, Network Neutrality and Congestion Sensitive Content Providers: Implications for Content Variety, Broadband Investment, and Regulation
+9, 2, 13, Table of contents
+9, 3, 13, Table of contents
