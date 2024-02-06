@@ -24,4 +24,5 @@ Scrape/chrome-win64/*
 Scrape/PDF/*
 Scrape/chrome-win64/*
 Scrape/scrape_data.csv
+Scrape/scrape_data_old.csv
 Scrape/credentials.txt
