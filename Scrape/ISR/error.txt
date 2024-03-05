@@ -11,3 +11,5 @@
 10, 1, 2, The "Third Hand": IT-Enabled Competitive Advantage in Turbulence Through Improvisational Capabilities
 10, 1, 12, Table of contents
 10, 2, 11, Table of contents
+25, 0, 3, The emergence of intrepretism in IS research
+27, 2, 2, A classification of information systems: Analysis and interpretation

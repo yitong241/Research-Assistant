@@ -21,7 +21,12 @@ darkweb/data/*
 Scrape/chromedriver.exe
 Scrape/chrome-win64.zip
 Scrape/chrome-win64/*
-Scrape/PDF/*
+Scrape/ISR/PDF
+Scrape/ISR/ISR.csv
+Scrape/ISR/ISR.zip
+Scrape/ISR/scrape_data_old.csv
+Scrape/MIS/MIS_data.csv
+Scrape/MIS/PDF
 Scrape/chrome-win64/*
 Scrape/scrape_data.csv
 Scrape/scrape_data_old.csv
