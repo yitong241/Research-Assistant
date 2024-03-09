@@ -33,3 +33,5 @@ Scrape/scrape_data_old.csv
 Scrape/credentials.txt
 Scrape/MIS/MIS_data_cleaned.csv
 Scrape/MIS/MIS_PDF.zip
+Scrape/JMIS/JMIS_PDF
+Scrape/JMIS/JMIS.csv
