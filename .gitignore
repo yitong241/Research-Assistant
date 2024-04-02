@@ -36,7 +36,11 @@ Scrape/MIS/MIS_PDF.zip
 Scrape/JMIS/JMIS_PDF
 Scrape/JMIS/JMIS_data.csv
 Scrape/JMIS/JMIS.csv
-Scrape/MS/MS_data.csv
-Scrape/MS/MS_PDF
-Scrape/MS/MS_PDF.zip
+Scrape/mnsc/mnsc_data.csv
+Scrape/mnsc/mnsc_pdf
+Scrape/mnsc/mnsc_pdf.zip
+Scrape/mksc/mksc_data.csv
+Scrape/mksc/mksc_pdf
+Scrape/mksc/mksc_pdf.zip
+
 Scrape/chromedriver-win64
